@@ -1,6 +1,8 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_2023_01", "AdventOfCode_2023_01\AdventOfCode_2023_01.csproj", "{CD2496BF-19F0-4992-99D6-E0167075ACEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_2023_02", "AdventOfCode_2023_02\AdventOfCode_2023_02.csproj", "{AC00FE81-603F-442A-A17C-CE588BEFB16D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,5 +13,9 @@ Global
 		{CD2496BF-19F0-4992-99D6-E0167075ACEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD2496BF-19F0-4992-99D6-E0167075ACEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD2496BF-19F0-4992-99D6-E0167075ACEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC00FE81-603F-442A-A17C-CE588BEFB16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC00FE81-603F-442A-A17C-CE588BEFB16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC00FE81-603F-442A-A17C-CE588BEFB16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC00FE81-603F-442A-A17C-CE588BEFB16D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
